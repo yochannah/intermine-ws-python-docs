@@ -12,6 +12,7 @@ executeLog*
 *.class
 productionLog
 *~
+.ipynb_checkpoints/
 
 !/intermine/webservice/client/download/dist/
 
