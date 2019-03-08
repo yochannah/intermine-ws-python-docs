@@ -1,1 +1,1 @@
-intermine==1.09.09
+git+git://github.com/nkengawoh/intermine-ws-python.git@organism-in-list-upload#egg=intermine
